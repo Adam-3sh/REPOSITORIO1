@@ -1,2 +1,2 @@
 # REPOSITORIO1
-opcianal
+opcional
